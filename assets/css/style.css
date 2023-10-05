@@ -5,13 +5,13 @@
 }
 
 body {
-    background-color: #1a4e6e;
+    background-color: #102947;
 }
 
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #1a4e6e;
+    background-color: #102947;
     color: #ffffff;
 }
 
@@ -48,6 +48,7 @@ a {
 
 p {
     font-size: 16px;
+    color: #ffffff;
 }
 
 .hero {
@@ -83,7 +84,7 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #1a4e6e;
+    background-color: #102947;
 }
 
 .benefit-lead {
@@ -139,7 +140,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #1a4e6e;
+    background-color: #102947;
     color: #ffffff;
 }
 
@@ -148,7 +149,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #1a4e6e;
+    background-color: #102947;
     color: #ffffff;
 }
 
@@ -157,7 +158,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #1a4e6e;
+    background-color: #102947;
     color: #ffffff;
 }
 
@@ -197,4 +198,5 @@ p {
 
 .footer h2 {
     font-size: 20px;
+    color: #ffffff;
 }
